@@ -3,5 +3,7 @@
     <pages>
         <page name='UserJSONParsing'/>
         <page name='UserJobDetailsDecoder'/>
+        <page name='JSONDecoding_CustomKeys'/>
+        <page name='JSONDecoder_decodeIfPresent'/>
     </pages>
 </playground>
