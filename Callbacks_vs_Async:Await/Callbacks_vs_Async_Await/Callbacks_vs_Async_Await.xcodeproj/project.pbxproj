@@ -19,6 +19,7 @@
 		E335E2172B27C35E0061CE35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E335E2192B27C35F0061CE35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E335E21C2B27C35F0061CE35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E335E2232B27CE110061CE35 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		E335E2092B27C35E0061CE35 = {
 			isa = PBXGroup;
 			children = (
+				E335E2232B27CE110061CE35 /* README.md */,
 				E335E2142B27C35E0061CE35 /* Callbacks_vs_Async_Await */,
 				E335E2132B27C35E0061CE35 /* Products */,
 			);
